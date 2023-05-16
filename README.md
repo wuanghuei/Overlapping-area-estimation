@@ -1,6 +1,6 @@
 # Overlapping Area Estimation
 
-A project to estimate the overlapping area in multiple cameras.
+A project to estimate the overlapping area in multiple cameras for Junction Vietnam Hackathon 2023.
 
 ## Installation
 
